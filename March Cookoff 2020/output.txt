@@ -1,0 +1,24 @@
+PREFIX SUM = -1 1 -1 0 -3 
+Q , 3 , 5
+Result Sum = -4
+Temp Sum = -6, result_sum = -4
+-4
+Q , 2 , 4
+Result Sum = 1
+Temp Sum = 3, result_sum = 1
+Temp Sum = 5, result_sum = 3
+Temp Sum = 5, result_sum = 5
+5
+U , 1 , 1
+sum[pos-1] = 1Sum Array 
+1 3 1 2 -1 
+Q , 2 , 4
+Result Sum = 1
+Temp Sum = 3, result_sum = 1
+Temp Sum = 5, result_sum = 3
+Temp Sum = 5, result_sum = 5
+5
+Q , 3 , 5
+Result Sum = -4
+Temp Sum = -6, result_sum = -4
+-4
